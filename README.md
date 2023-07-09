@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Project GIF" width="75%">
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Project GIF" width="40%">
 
 ## 🎨 About Me
 
